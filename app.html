@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>skola2.0</title>
+<title>Mapa školy</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
 <style> @-ms-viewport { width: device-width; } </style>
 <link rel="stylesheet" href="vendor/reset.min.css">
 <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://unpkg.com/material-components-web/dist/material-components-web.min.css" />
-<script src="https://unpkg.com/material-components-web/dist/material-components-web.min.js"></script>
 </head>
 <body class="multiple-scenes ">
 
@@ -18,31 +16,47 @@
 <div id="sceneList">
   <ul class="scenes">
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="0-pzem">
-        <li class="text">Přízemí</li>
+      <a href="javascript:void(0)" class="scene" data-id="0-prizemi">
+        <li class="text">Přízemí</li>
       </a>
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="1-pzem-vlevo">
-        <li class="text">Přízemí, vlevo</li>
+      <a href="javascript:void(0)" class="scene" data-id="1-prizemi-vlevo">
+        <li class="text">Přízemí, vlevo</li>
       </a>
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="2-pzem-jdelna">
-        <li class="text">Přízemí, jídelna</li>
+      <a href="javascript:void(0)" class="scene" data-id="2-prizemi-vpravo">
+        <li class="text">Přízemí, vpravo</li>
       </a>
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="3-1-patro">
+      <a href="javascript:void(0)" class="scene" data-id="3-prizemi-botarna">
+        <li class="text">Přízemí, botárna</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="4-prizemi-jidelna">
+        <li class="text">Přízemí, jídelna</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="5-1-patro">
         <li class="text">1. patro</li>
       </a>
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="4-1-patro-prima">
-        <li class="text">1. patro, prima</li>
+      <a href="javascript:void(0)" class="scene" data-id="6-1-patro-vlevo">
+        <li class="text">1. patro, vlevo</li>
       </a>
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="5-2-patro">
+      <a href="javascript:void(0)" class="scene" data-id="7-1-patro-vpravo">
+        <li class="text">1. patro, vpravo</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="8-2-patro">
         <li class="text">2. patro</li>
       </a>
     
-      <a href="javascript:void(0)" class="scene mdc-ripple-surface" data-id="6-2-patro-vpravo">
+      <a href="javascript:void(0)" class="scene" data-id="9-2-patro-vlevo">
+        <li class="text">2. patro, vlevo</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="10-2-patro-vpravo">
         <li class="text">2. patro, vpravo</li>
       </a>
     
@@ -54,18 +68,18 @@
 </div>
 
 <a href="javascript:void(0)" id="autorotateToggle">
-  <img class="icon off mdc-ripple-surface" src="img/play.png">
-  <img class="icon on mdc-ripple-surface" src="img/pause.png">
+  <img class="icon off" src="img/play.png">
+  <img class="icon on" src="img/pause.png">
 </a>
 
 <a href="javascript:void(0)" id="fullscreenToggle">
-  <img class="icon off mdc-ripple-surface" src="img/fullscreen.png">
-  <img class="icon on mdc-ripple-surface" src="img/windowed.png">
+  <img class="icon off" src="img/fullscreen.png">
+  <img class="icon on" src="img/windowed.png">
 </a>
 
 <a href="javascript:void(0)" id="sceneListToggle">
-  <img class="icon off mdc-ripple-surface" src="img/expand.png">
-  <img class="icon on mdc-ripple-surface" src="img/collapse.png">
+  <img class="icon off" src="img/expand.png">
+  <img class="icon on" src="img/collapse.png">
 </a>
 
 <a href="javascript:void(0)" id="viewUp" class="viewControlButton viewControlButton-1">

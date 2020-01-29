@@ -1,52 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-pzem",
-      "name": "Přízemí",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -0.0328999620803927,
-        "pitch": 0.011027876692079275,
-        "fov": 1.4134061960355204
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.608345094056105,
-          "pitch": 0.027965340235686753,
-          "rotation": 0,
-          "target": "1-pzem-vlevo"
-        },
-        {
-          "yaw": 3.076403988194852,
-          "pitch": -0.19798637975269173,
-          "rotation": 7.0685834705770345,
-          "target": "3-1-patro"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "1-pzem-vlevo",
-      "name": "Přízemí, vlevo",
+      "id": "0-prizemi",
+      "name": "Přízemí",
       "levels": [
         {
           "tileSize": 256,
@@ -74,29 +30,29 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.1121458378285674,
-          "pitch": -0.02096019179503017,
+          "yaw": -1.6005851287441963,
+          "pitch": 0.2513218302538718,
           "rotation": 0,
-          "target": "0-pzem"
+          "target": "1-prizemi-vlevo"
         },
         {
-          "yaw": -1.2569747925301034,
-          "pitch": 0.024794316980553788,
-          "rotation": 7.853981633974483,
-          "target": "2-pzem-jdelna"
+          "yaw": 3.0782046266034033,
+          "pitch": -0.17756857901296996,
+          "rotation": 0.7853981633974483,
+          "target": "5-1-patro"
         },
         {
-          "yaw": -2.8999921423052477,
-          "pitch": -0.03787709494963565,
-          "rotation": 7.0685834705770345,
-          "target": "3-1-patro"
+          "yaw": 1.5508341342240097,
+          "pitch": 0.2435663344493708,
+          "rotation": 0,
+          "target": "2-prizemi-vpravo"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-pzem-jdelna",
-      "name": "Přízemí, jídelna",
+      "id": "1-prizemi-vlevo",
+      "name": "Přízemí, vlevo",
       "levels": [
         {
           "tileSize": 256,
@@ -124,16 +80,170 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.2471037906130595,
-          "pitch": 0.03161326963918576,
-          "rotation": 6.283185307179586,
-          "target": "1-pzem-vlevo"
+          "yaw": -1.36344803971898,
+          "pitch": 0.04984713765383475,
+          "rotation": 1.5707963267948966,
+          "target": "4-prizemi-jidelna"
+        },
+        {
+          "yaw": -3.0912671671783496,
+          "pitch": 0.19495173057270776,
+          "rotation": 0,
+          "target": "0-prizemi"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.16753181259830363,
+          "pitch": 0.024986385922334264,
+          "title": "Počítačová laboratoř",
+          "text": "V pořítačové laboratoří děláme různé věci na počítačích."
+        }
+      ]
     },
     {
-      "id": "3-1-patro",
+      "id": "2-prizemi-vpravo",
+      "name": "Přízemí, vpravo",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.5626977727844356,
+          "pitch": 0.32694802086081864,
+          "rotation": 0,
+          "target": "3-prizemi-botarna"
+        },
+        {
+          "yaw": -3.0409161730593777,
+          "pitch": 0.23186171005046852,
+          "rotation": 0,
+          "target": "0-prizemi"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.018467261469560015,
+          "pitch": 0.007316780585897575,
+          "title": "Vchod do jiné školy",
+          "text": "Tudy jdeme do tělocvičny"
+        }
+      ]
+    },
+    {
+      "id": "3-prizemi-botarna",
+      "name": "Přízemí, botárna",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.533040837700245,
+        "pitch": -0.019963055252524953,
+        "fov": 1.4800026923652951
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.9593204938040074,
+          "pitch": 0.23994419356197483,
+          "rotation": 0,
+          "target": "2-prizemi-vpravo"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.5379201308373567,
+          "pitch": -0.01995025434970188,
+          "title": "Botárna",
+          "text": "Tady se zouváme"
+        }
+      ]
+    },
+    {
+      "id": "4-prizemi-jidelna",
+      "name": "Přízemí, jídelna",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.1216799398504875,
+          "pitch": 0.05280028792744673,
+          "rotation": 1.5707963267948966,
+          "target": "1-prizemi-vlevo"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.2921728987057897,
+          "pitch": -0.0023073760253158326,
+          "title": "Jídelna",
+          "text": "Tady do sebe tlačíme jídlo"
+        }
+      ]
+    },
+    {
+      "id": "5-1-patro",
       "name": "1. patro",
       "levels": [
         {
@@ -162,23 +272,35 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.7795290810323934,
-          "pitch": 0.5765623704989444,
+          "yaw": -2.821338594644848,
+          "pitch": 0.5637895796918411,
           "rotation": 3.9269908169872414,
-          "target": "0-pzem"
+          "target": "0-prizemi"
         },
         {
-          "yaw": 3.023366859722592,
-          "pitch": -0.2558682594151982,
+          "yaw": 2.984215197188573,
+          "pitch": -0.20410636689375572,
           "rotation": 0.7853981633974483,
-          "target": "5-2-patro"
+          "target": "8-2-patro"
+        },
+        {
+          "yaw": 1.525604825248342,
+          "pitch": 0.24694890568113337,
+          "rotation": 0,
+          "target": "7-1-patro-vpravo"
+        },
+        {
+          "yaw": -1.3044971272917714,
+          "pitch": 0.20270342910007955,
+          "rotation": 0,
+          "target": "6-1-patro-vlevo"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-1-patro-prima",
-      "name": "1. patro, prima",
+      "id": "6-1-patro-vlevo",
+      "name": "1. patro, vlevo",
       "levels": [
         {
           "tileSize": 256,
@@ -204,11 +326,100 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": []
+      "linkHotspots": [
+        {
+          "yaw": 3.1320993593165145,
+          "pitch": 0.20484165170192625,
+          "rotation": 0,
+          "target": "5-1-patro"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.39150939065288526,
+          "pitch": 0.006102578147402227,
+          "title": "Tercie",
+          "text": "Tady se učíme<div>---------------------</div><div>Třídní učitel: Aleš Presl</div>"
+        },
+        {
+          "yaw": -1.0845279840060513,
+          "pitch": 0.028940373918306506,
+          "title": "Septima",
+          "text": "Tady se učíme<div><div>---------------------</div><div>Třídní učitel: Věra Juráčková</div></div>"
+        },
+        {
+          "yaw": -1.2799079211374274,
+          "pitch": 0.027899015170767427,
+          "title": "Sekunda, kabinet a sborovna",
+          "text": "Tady se učíme<div><div>---------------------</div><div>Třídní učitel: Helena Polláková</div></div><div>---------------------<br></div><div>Kabinet ČJ a LIT: Marie Veverová a Lenka Ulmanová</div><div>---------------------<br></div><div>Sborovna cizích jazyků + jiní: Jelena Bedretdinová, Stanislava Hrušková, Vladimír Ješko, Kateřina Miloschewská, Jana Sedláčková, Adéla Smažíková, Ivo Šir a Jiří Šulc</div>"
+        }
+      ]
     },
     {
-      "id": "5-2-patro",
+      "id": "7-1-patro-vpravo",
+      "name": "1. patro, vpravo",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.704445570005305,
+          "pitch": 0.26522229981924283,
+          "rotation": 5.497787143782138,
+          "target": "5-1-patro"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -0.4985710766053959,
+          "pitch": -0.22708181177412534,
+          "title": "Ředitelna a sekretariát",
+          "text": "Tady se řídí škola<div>---------------------<br></div><div>Lidé: Magda Kindlová, Anna Rakovská a Renáta Sladká</div>"
+        },
+        {
+          "yaw": -1.337127569277344,
+          "pitch": -0.08310146170101618,
+          "title": "Sexta",
+          "text": "Tady se učíme<div>---------------------<br></div><div>Třídní učitel: Martin Kulhánek</div>"
+        },
+        {
+          "yaw": 1.1683696579724643,
+          "pitch": -0.025779118418645552,
+          "title": "Zástupci ředitelky",
+          "text": "Tady jsou náhradní řidiči školy<div>---------------------<br></div><div>Lidé: Marcela Fatrová a Václav Brdek</div>"
+        },
+        {
+          "yaw": 1.388883819900002,
+          "pitch": -0.0357822860252881,
+          "title": "Prima",
+          "text": "Tady se učí autoři mapy<div>---------------------<br></div><div>Třídní učitel: Hana Šromová</div>"
+        }
+      ]
+    },
+    {
+      "id": "8-2-patro",
       "name": "2. patro",
       "levels": [
         {
@@ -237,22 +448,85 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.1176042063671776,
-          "pitch": 0.4162311342179734,
-          "rotation": 3.9269908169872414,
-          "target": "3-1-patro"
+          "yaw": -1.4310178892379941,
+          "pitch": 0.22993648781246634,
+          "rotation": 0,
+          "target": "9-2-patro-vlevo"
         },
         {
-          "yaw": 1.4675587208724838,
-          "pitch": -0.020508121087031483,
+          "yaw": 1.4726712098222379,
+          "pitch": 0.21972849681421813,
           "rotation": 0,
-          "target": "6-2-patro-vpravo"
+          "target": "10-2-patro-vpravo"
+        },
+        {
+          "yaw": -3.133379340925064,
+          "pitch": 0.5195512348299332,
+          "rotation": 3.9269908169872414,
+          "target": "5-1-patro"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "6-2-patro-vpravo",
+      "id": "9-2-patro-vlevo",
+      "name": "2. patro, vlevo",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.048513662422554,
+          "pitch": 0.3049905055123112,
+          "rotation": 0,
+          "target": "8-2-patro"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.18608831579654606,
+          "pitch": 0.02589645652310324,
+          "title": "Kvarta",
+          "text": "Tady se učíme<div>---------------------<br></div><div>Třídní učitel: Lenka Ulmanová</div>"
+        },
+        {
+          "yaw": -1.2075788707259143,
+          "pitch": -0.009895661548117829,
+          "title": "Kvinta",
+          "text": "Tady se učíme<div>---------------------<br></div><div>Třídní učitel: Václav brdek</div>"
+        },
+        {
+          "yaw": -1.3880610372271693,
+          "pitch": -0.00846638472883221,
+          "title": "Učebna výtvarné výchovy a kabinet",
+          "text": "Tady malujeme po zdech<div>---------------------<br></div><div>Kabinet: Martin Kulhánek, Michaela Komorousová, Veronika Poldauf a Hana Šromová</div>"
+        }
+      ]
+    },
+    {
+      "id": "10-2-patro-vpravo",
       "name": "2. patro, vpravo",
       "levels": [
         {
@@ -275,28 +549,47 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.7014083602198582,
-        "pitch": 0.08403630659344685,
-        "fov": 1.4134061960355204
+        "yaw": -0.2075400930449831,
+        "pitch": 0.01440906970343292,
+        "fov": 1.4800026923652951
       },
       "linkHotspots": [
         {
-          "yaw": 3.0385302632013644,
-          "pitch": -0.02531162832191569,
-          "rotation": 0,
-          "target": "5-2-patro"
-        },
-        {
-          "yaw": 2.889964152519152,
-          "pitch": -0.02049585608090254,
-          "rotation": 10.210176124166829,
-          "target": "3-1-patro"
+          "yaw": 3.0877489041149424,
+          "pitch": 0.2624159192252762,
+          "rotation": 12.566370614359176,
+          "target": "8-2-patro"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.3753218909706675,
+          "pitch": -0.016106449726779104,
+          "title": "Oktáva",
+          "text": "Tady se učíme<div>---------------------<br></div><div>Třídní učitel: Matúš Kepič</div>"
+        },
+        {
+          "yaw": 2.220243576047407,
+          "pitch": -0.006882588118610755,
+          "title": "Kabinet psycholožek",
+          "text": "Tady se řeší problémy<div>---------------------<br></div><div>Lidé: Jitka Hofmannová a Pavla Vošáhlíková</div>"
+        },
+        {
+          "yaw": 1.274070038162094,
+          "pitch": 0.011374938646721233,
+          "title": "BioChem a kabinet",
+          "text": "Tady děláme bum bum a pitváme žáby<div>---------------------<br></div><div>Kabinet: Věra Jurčáková, Petr Kolář a Jaroslav Šebestík</div>"
+        },
+        {
+          "yaw": 1.0799403192871289,
+          "pitch": 0.010632549489326237,
+          "title": "Kabinet",
+          "text": "Stanislav Čaja, Kateřina Freudová, Axel González, Ján Hanko, Matúš Kepič, Michaela Makešová, Mária Navarová a Irena Žaloudková"
+        }
+      ]
     }
   ],
-  "name": "skola2.0",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

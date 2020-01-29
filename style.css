@@ -80,7 +80,7 @@ body.multiple-scenes.mobile #titleBar {
   line-height: 30px;
   padding: 5px;
   background-color: rgb(58,68,84);
-  background-color: dodgerblue;
+  background-color: rgba(58,68,84,0.8);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -104,7 +104,7 @@ body.multiple-scenes.mobile #titleBar {
   height: 40px;
   padding: 5px;
   background-color: rgb(103,115,131);
-  background-color: dodgerblue;
+  background-color: rgba(103,115,131,0.8);
 }
 
 .mobile #fullscreenToggle {
@@ -154,7 +154,7 @@ body.fullscreen-enabled #fullscreenToggle {
   height: 40px;
   padding: 5px;
   background-color: rgb(103,115,131);
-  background-color: dodgerblue;
+  background-color: rgba(103,115,131,0.8);
 }
 
 .mobile #autorotateToggle {
@@ -208,7 +208,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   height: 40px;
   padding: 5px;
   background-color: rgb(103,115,131);
-  background-color: dodgerblue;
+  background-color: rgba(103,115,131,0.8);
 }
 
 .mobile #sceneListToggle {
@@ -274,7 +274,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 #sceneList .scenes {
   width: 100%;
   background-color: rgb(58,68,84);
-  background-color: dodgerblue;
+  background-color: rgba(58,68,84,0.8);
 }
 
 .mobile #sceneList {
@@ -321,12 +321,12 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 .no-touch #sceneList .scene:hover {
   background-color: rgb(103,115,131);
-  background-color: #0080ff;
+  background-color: rgba(103,115,131,0.8);
 }
 
 #sceneList .scene.current {
   background-color: rgb(103,115,131);
-  background-color: #0080ff;
+  background-color: rgba(103,115,131,0.8);
 }
 
 /* Hide scene list when only a single scene exists */
