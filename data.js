@@ -148,7 +148,7 @@ var APP_DATA = {
           "yaw": 0.018467261469560015,
           "pitch": 0.007316780585897575,
           "title": "Vchod do jiné školy",
-          "text": "Tudy jdeme do tělocvičny"
+          "text": "Tudy jdeme do tělocvičny <a href="mailto:nevergona@giveyou.up">Test</a>"
         }
       ]
     },
