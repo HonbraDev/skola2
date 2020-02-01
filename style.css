@@ -96,7 +96,7 @@ body.multiple-scenes.mobile #titleBar {
 }
 
 #fullscreenToggle {
-  display: block;
+  display: none;
   position: absolute;
   top: 0;
   right: 0;
@@ -146,7 +146,7 @@ body.fullscreen-enabled #fullscreenToggle {
 }
 
 #autorotateToggle {
-  display: none;
+  display: block;
   position: absolute;
   top: 0;
   right: 0;
