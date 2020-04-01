@@ -97,7 +97,7 @@ var APP_DATA = {
           "yaw": -0.16753181259830363,
           "pitch": 0.024986385922334264,
           "title": "Počítačová laboratoř",
-          "text": "V počítačové laboratoří děláme různé věci na počítačích."
+          "text": "V počítačové laboratoři se učí IVT (informační a výpočetní technologe)."
         }
       ]
     },
