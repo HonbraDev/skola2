@@ -148,7 +148,7 @@ var APP_DATA = {
           "yaw": 0.018467261469560015,
           "pitch": 0.007316780585897575,
           "title": "Vchod do jiné školy",
-          "text": "Tudy jdeme do tělocvičny <a href=mailto:nevergona@giveyou.up>Test</a>"
+          "text": "Tudy je vchod do tělocvičny a druhé školy (<a href=http://www.zs-jana-wericha.cz/>Základní škola Jana Wericha</a>)."
         }
       ]
     },
@@ -238,7 +238,7 @@ var APP_DATA = {
           "yaw": -1.2921728987057897,
           "pitch": -0.0023073760253158326,
           "title": "Jídelna",
-          "text": "Tady do sebe tlačíme jídlo"
+          "text": "Tady se samozřejmě jí. Lze si tu přes internet objednat jedno ze tří jídel a kdyžtak koupit i další občerstvení."
         }
       ]
     },
@@ -339,19 +339,19 @@ var APP_DATA = {
           "yaw": 0.39150939065288526,
           "pitch": 0.006102578147402227,
           "title": "Tercie",
-          "text": "Tady se učíme<div>---------------------</div><div>Třídní učitel: Aleš Presl</div>"
+          "text": "Tady se učí Tercie<div>---------------------</div><div><b>Třídní učitel:</b> Aleš Presl</div>"
         },
         {
           "yaw": -1.0845279840060513,
           "pitch": 0.028940373918306506,
           "title": "Septima",
-          "text": "Tady se učíme<div><div>---------------------</div><div>Třídní učitel: Věra Juráčková</div></div>"
+          "text": "Tady se učí Septima<div><div>---------------------</div><div><b>Třídní učitel:</b> Věra Juráčková</div></div>"
         },
         {
           "yaw": -1.2799079211374274,
           "pitch": 0.027899015170767427,
           "title": "Sekunda, kabinet a sborovna",
-          "text": "Tady se učíme<div><div>---------------------</div><div>Třídní učitel: Helena Polláková</div></div><div>---------------------<br></div><div>Kabinet ČJ a LIT: Marie Veverová a Lenka Ulmanová</div><div>---------------------<br></div><div>Sborovna cizích jazyků + jiní: Jelena Bedretdinová, Stanislava Hrušková, Vladimír Ješko, Kateřina Miloschewská, Jana Sedláčková, Adéla Smažíková, Ivo Šir a Jiří Šulc</div>"
+          "text": "Tady se učí sekunda<div><div>---------------------</div><div><b>Třídní učitel:</b> Helena Polláková</div></div><div>---------------------<br></div><div>Kabinet ČJ a LIT: Marie Veverová a Lenka Ulmanová</div><div>---------------------<br></div><div>Sborovna cizích jazyků + jiní: Jelena Bedretdinová, Stanislava Hrušková, Vladimír Ješko, Kateřina Miloschewská, Jana Sedláčková, Adéla Smažíková, Ivo Šir a Jiří Šulc</div>"
         }
       ]
     },
