@@ -148,7 +148,7 @@ var APP_DATA = {
           "yaw": 0.018467261469560015,
           "pitch": 0.007316780585897575,
           "title": "Vchod do jiné školy",
-          "text": "Tudy je vchod do tělocvičny a druhé školy (<a href=http://www.zs-jana-wericha.cz/>Základní škola Jana Wericha</a>)."
+          "text": "Tudy je vchod do tělocvičny a druhé školy (<a style=\"color: blue\" href=http://www.zs-jana-wericha.cz/>Základní škola Jana Wericha</a>)."
         }
       ]
     },
