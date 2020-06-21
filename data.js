@@ -396,7 +396,7 @@ var APP_DATA = {
           "yaw": -0.4985710766053959,
           "pitch": -0.22708181177412534,
           "title": "Ředitelna a sekretariát",
-          "text": "Tady se řídí škola<div>---------------------<br></div><div>Lidé: Magda Kindlová, Anna Rakovská a Renáta Sladká</div>"
+          "text": "Tady se řídí škola<div>---------------------<br></div><div>Lidé: Magda Kindlová, Anna Rakovská a<br>Renáta Sladká</div>"
         },
         {
           "yaw": -1.337127569277344,
@@ -408,7 +408,7 @@ var APP_DATA = {
           "yaw": 1.1683696579724643,
           "pitch": -0.025779118418645552,
           "title": "Zástupci ředitelky",
-          "text": "Tady jsou náhradní řidiči školy<div>---------------------<br></div><div>Lidé: Marcela Fatrová a Václav Brdek</div>"
+          "text": "Tady jsou náhradní řidiči školy<div>---------------------<br></div><div>Lidé: Marcela Fatrová a<br>Václav Brdek</div>"
         },
         {
           "yaw": 1.388883819900002,
@@ -521,7 +521,7 @@ var APP_DATA = {
           "yaw": -1.3880610372271693,
           "pitch": -0.00846638472883221,
           "title": "Učebna výtvarné výchovy a kabinet",
-          "text": "Tady malujeme po zdech<div>---------------------<br></div><div>Kabinet: Martin Kulhánek, Michaela Komorousová, Veronika Poldauf a Hana Šromová</div>"
+          "text": "Tady malujeme po zdech<div>---------------------<br></div><div>Kabinet: Martin Kulhánek,<br>Michaela Komorousová,<br> Veronika Poldauf a<br>Hana Šromová</div>"
         }
       ]
     },
@@ -572,19 +572,19 @@ var APP_DATA = {
           "yaw": 2.220243576047407,
           "pitch": -0.006882588118610755,
           "title": "Kabinet psycholožek",
-          "text": "Tady se řeší problémy<div>---------------------<br></div><div>Lidé: Jitka Hofmannová a Pavla Vošáhlíková</div>"
+          "text": "Tady se řeší problémy<div>---------------------<br></div><div>Lidé: Jitka Hofmannová a<br>Pavla Vošáhlíková</div>"
         },
         {
           "yaw": 1.274070038162094,
           "pitch": 0.011374938646721233,
           "title": "BioChem a kabinet",
-          "text": "Tady děláme bum bum a pitváme žáby<div>---------------------<br></div><div>Kabinet: Věra Jurčáková, Petr Kolář a Jaroslav Šebestík</div>"
+          "text": "Tady děláme bum bum a pitváme žáby<div>---------------------<br></div><div>Kabinet: Věra Jurčáková,<br>Petr Kolář a<br>Jaroslav Šebestík</div>"
         },
         {
           "yaw": 1.0799403192871289,
           "pitch": 0.010632549489326237,
           "title": "Kabinet",
-          "text": "Stanislav Čaja, Kateřina Freudová, Axel González, Ján Hanko, Matúš Kepič, Michaela Makešová, Mária Navarová a Irena Žaloudková"
+          "text": "Stanislav Čaja,<br>Kateřina Freudová,<br>Axel González,<br>Ján Hanko,<br>Matúš Kepič,<br>Michaela Makešová,<br>Mária Navarová a<br>Irena Žaloudková"
         }
       ]
     }
