@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-prizemi",
-      "name": "Přízemí",
+      "name": "Přízemí",
       "levels": [
         {
           "tileSize": 256,
@@ -52,7 +52,7 @@ var APP_DATA = {
     },
     {
       "id": "1-prizemi-vlevo",
-      "name": "Přízemí, vlevo",
+      "name": "Přízemí, vlevo",
       "levels": [
         {
           "tileSize": 256,
@@ -103,7 +103,7 @@ var APP_DATA = {
     },
     {
       "id": "2-prizemi-vpravo",
-      "name": "Přízemí, vpravo",
+      "name": "Přízemí, vpravo",
       "levels": [
         {
           "tileSize": 256,
@@ -154,7 +154,7 @@ var APP_DATA = {
     },
     {
       "id": "3-prizemi-botarna",
-      "name": "Přízemí, botárna",
+      "name": "Přízemí, botárna",
       "levels": [
         {
           "tileSize": 256,
@@ -199,7 +199,7 @@ var APP_DATA = {
     },
     {
       "id": "4-prizemi-jidelna",
-      "name": "Přízemí, jídelna",
+      "name": "Přízemí, jídelna",
       "levels": [
         {
           "tileSize": 256,
@@ -238,7 +238,7 @@ var APP_DATA = {
           "yaw": -1.2921728987057897,
           "pitch": -0.0023073760253158326,
           "title": "Jídelna",
-          "text": "Tady se samozřejmě jí. Lze si tu přes internet objednat jedno ze tří jídel a kdyžtak koupit i další občerstvení."
+          "text": "Tady do sebe tlačíme jídlo."
         }
       ]
     },
