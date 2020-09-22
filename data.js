@@ -97,7 +97,7 @@ var APP_DATA = {
           "yaw": -0.16753181259830363,
           "pitch": 0.024986385922334264,
           "title": "Počítačová laboratoř",
-          "text": "V počítačové laboratoři se učí IVT (informační a výpočetní technologe). \n PS. Naši žáci mají přístup ke kompletnímu officu 365."
+          "text": "V počítačové laboratoři se učí IVT (informační a výpočetní technologe). <br><br> PS. Naši žáci mají přístup ke kompletnímu officu 365."
         }
       ]
     },
@@ -147,8 +147,8 @@ var APP_DATA = {
         {
           "yaw": 0.018467261469560015,
           "pitch": 0.007316780585897575,
-          "title": "Vchod do jiné školy",
-          "text": "Tudy je vchod do tělocvičny a druhé školy (<a style=\"color: blue\" href=http://www.zs-jana-wericha.cz/>Základní škola Jana Wericha</a>)."
+          "title": "Vchod do jiné školy a tělocvičny",
+          "text": "Tudy je vchod do tělocvičny a druhé školy (<a style=\"color: DarkSlateBlue\" href=http://www.zs-jana-wericha.cz/>Základní škola Jana Wericha</a>)."
         }
       ]
     },
@@ -192,7 +192,7 @@ var APP_DATA = {
         {
           "yaw": -1.5379201308373567,
           "pitch": -0.01995025434970188,
-          "title": "Botárna",
+          "title": "Skříňky",
           "text": "Tady se zouváme"
         }
       ]
@@ -238,7 +238,7 @@ var APP_DATA = {
           "yaw": -1.2921728987057897,
           "pitch": -0.0023073760253158326,
           "title": "Jídelna",
-          "text": "Tady do sebe tlačíme jídlo."
+          "text": "Tady se samozřejmě jí. Jídla nám poskytuje společnost <a style=\"color: DarkSlateBlue\" href=http://www.scolarest.cz//>Scolarest</a>. Je tu i bufet, kde si žáci mohou koupit svačinu."
         }
       ]
     },
@@ -414,7 +414,7 @@ var APP_DATA = {
           "yaw": 1.388883819900002,
           "pitch": -0.0357822860252881,
           "title": "Prima",
-          "text": "Tady se učí autoři mapy<div>---------------------<br></div><div>Třídní učitel: Hana Šromová</div>"
+          "text": "Tady se učí(li) autoři mapy<div>---------------------<br></div><div>Třídní učitel: Hana Šromová</div>"
         }
       ]
     },
@@ -521,7 +521,7 @@ var APP_DATA = {
           "yaw": -1.3880610372271693,
           "pitch": -0.00846638472883221,
           "title": "Učebna výtvarné výchovy a kabinet",
-          "text": "Tady malujeme po zdech<div>---------------------<br></div><div>Kabinet: Martin Kulhánek,<br>Michaela Komorousová,<br> Veronika Poldauf a<br>Hana Šromová</div>"
+          "text": "Tady nejen malujeme, ale i tvoříme různé modely a mnoho dalších zajímavých věci.<div>---------------------<br></div><div>Kabinet: Martin Kulhánek,<br>Michaela Komorousová,<br> Veronika Poldauf a<br>Hana Šromová</div>"
         }
       ]
     },
@@ -572,13 +572,13 @@ var APP_DATA = {
           "yaw": 2.220243576047407,
           "pitch": -0.006882588118610755,
           "title": "Kabinet psycholožek",
-          "text": "Tady se řeší problémy<div>---------------------<br></div><div>Lidé: Jitka Hofmannová a<br>Pavla Vošáhlíková</div>"
+          "text": "Tady se řeší problémy žáků<div>---------------------<br></div><div>Lidé: Jitka Hofmannová a<br>Pavla Vošáhlíková</div>"
         },
         {
           "yaw": 1.274070038162094,
           "pitch": 0.011374938646721233,
           "title": "BioChem a kabinet",
-          "text": "Tady děláme bum bum a pitváme žáby<div>---------------------<br></div><div>Kabinet: Věra Jurčáková,<br>Petr Kolář a<br>Jaroslav Šebestík</div>"
+          "text": "Tady se učí biologie, chemie, fyzika a občas i přírodopis.<div>---------------------<br></div><div>Kabinet: Věra Jurčáková,<br>Petr Kolář a<br>Jaroslav Šebestík</div>"
         },
         {
           "yaw": 1.0799403192871289,
