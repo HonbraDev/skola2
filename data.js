@@ -148,7 +148,7 @@ var APP_DATA = {
           "yaw": 0.018467261469560015,
           "pitch": 0.007316780585897575,
           "title": "Vchod do jiné školy a tělocvičny",
-          "text": "Tudy je vchod do tělocvičny a druhé školy (<a style=\"color: DarkSlateBlue\" href=http://www.zs-jana-wericha.cz/>Základní škola Jana Wericha</a>)."
+          "text": "Tudy je vchod do tělocvičny a druhé školy (<a style=\"color: LightSkyBlue\" href=\"http://www.zs-jana-wericha.cz/\">Základní škola Jana Wericha</a>)."
         }
       ]
     },
@@ -238,7 +238,7 @@ var APP_DATA = {
           "yaw": -1.2921728987057897,
           "pitch": -0.0023073760253158326,
           "title": "Jídelna",
-          "text": "Tady se samozřejmě jí. Jídla nám poskytuje společnost <a style=\"color: DarkSlateBlue\" href=http://www.scolarest.cz//>Scolarest</a>. Je tu i bufet, kde si žáci mohou koupit svačinu."
+          "text": "Tady se samozřejmě jí. Jídla nám poskytuje společnost <a style=\"color: LightSkyBlue\" href=\"http://www.scolarest.cz/\">Scolarest</a>. Je tu i bufet, kde si žáci mohou koupit svačinu."
         }
       ]
     },
