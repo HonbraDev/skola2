@@ -91,7 +91,7 @@ var APP_DATA = {
                 "yaw": -0.16753181259830363,
                 "pitch": 0.024986385922334264,
                 "title": "Počítačová laboratoř",
-                "text": "V počítačové laboratoři se učí IVT (informační a výpočetní technologe). Naši žáci mají přístup ke kompletnímu officu 365."
+                "text": "V počítačové laboratoři se učí IVT (informační a výpočetní technologe). Naši žáci mají předplatné Office 365."
             }]
         },
         {
@@ -312,19 +312,19 @@ var APP_DATA = {
                     "yaw": 0.39150939065288526,
                     "pitch": 0.006102578147402227,
                     "title": "Kvarta",
-                    "text": "Tady se učí Kvarta<hr><b>Třídní učitel</b>: Aleš Presl"
+                    "text": "Tady se učí Kvarta<hr><b>Třídní učitel</b>: Aleš&nbsp;Presl"
                 },
                 {
                     "yaw": -1.0845279840060513,
                     "pitch": 0.028940373918306506,
                     "title": "Oktáva",
-                    "text": "Tady se učí Oktáva<hr><b>Třídní učitel</b>: Věra Juráčková"
+                    "text": "Tady se učí Oktáva<hr><b>Třídní učitel</b>: Věra&nbsp;Juráčková"
                 },
                 {
                     "yaw": -1.2799079211374274,
                     "pitch": 0.027899015170767427,
                     "title": "Tercie, kabinet a sborovna",
-                    "text": "Tady se učí Tercie<hr><b>Třídní učitel</b>: Helena Polláková<hr>Kabinet ČJ a LIT: Marie Veverová, Lenka Ulmanová<hr>Sborovna cizích jazyků + jiní: Jelena Bedretdinová, Isabel Landeros, Kateřina Miloschewská, Jana Sedláčková, Adéla Smažíková, Ivo Šír, Jiří Šulc"
+                    "text": "Tady se učí Tercie<hr><b>Třídní učitel</b>: Helena&nbsp;Polláková<hr>Kabinet ČJ a LIT: Marie&nbsp;Veverová, Lenka&nbsp;Ulmanová<hr>Sborovna cizích jazyků + jiní: Jelena&nbsp;Bedretdinová, Isabel&nbsp;Landeros, Kateřina&nbsp;Miloschewská, Jana&nbsp;Sedláčková, Adéla&nbsp;Smažíková, Ivo&nbsp;Šír, Jiří&nbsp;Šulc"
                 }
             ]
         },
@@ -365,25 +365,25 @@ var APP_DATA = {
                     "yaw": -0.4985710766053959,
                     "pitch": -0.22708181177412534,
                     "title": "Ředitelna a sekretariát",
-                    "text": "Tady se řídí škola<hr><b>Lidé</b>: Magda Kindlová, Anna Rakovská, Renáta Sladká"
+                    "text": "Tady se řídí škola<hr><b>Lidé</b>: Magda&nbsp;Kindlová, Anna&nbsp;Rakovská, Renáta&nbsp;Sladká"
                 },
                 {
                     "yaw": -1.337127569277344,
                     "pitch": -0.08310146170101618,
                     "title": "Septima",
-                    "text": "Tady se učíme<hr><b>Třídní učitel</b>: Martin Kulhánek"
+                    "text": "Tady se učíme<hr><b>Třídní učitel</b>: Martin&nbsp;Kulhánek"
                 },
                 {
                     "yaw": 1.1683696579724643,
                     "pitch": -0.025779118418645552,
                     "title": "Zástupci ředitelky",
-                    "text": "Tady jsou náhradní řidiči školy<hr><b>Lidé</b>: Marcela Fatrová, Václav Brdek"
+                    "text": "Tady jsou náhradní řidiči školy<hr><b>Lidé</b>: Marcela&nbsp;Fatrová, Václav&nbsp;Brdek"
                 },
                 {
                     "yaw": 1.388883819900002,
                     "pitch": -0.0357822860252881,
                     "title": "Sekunda",
-                    "text": "Tady se učí Sekunda<hr><b>Třídní učitel</b>: Hana Šromová"
+                    "text": "Tady se učí Sekunda<hr><b>Třídní učitel</b>: Hana&nbsp;Šromová"
                 }
             ]
         },
@@ -472,19 +472,19 @@ var APP_DATA = {
                     "yaw": 0.18608831579654606,
                     "pitch": 0.02589645652310324,
                     "title": "Kvinta",
-                    "text": "Tady se učí Kvinta<hr><b>Třídní učitel</b>: Lenka Ulmanová"
+                    "text": "Tady se učí Kvinta<hr><b>Třídní učitel</b>: Lenka&nbsp;Ulmanová"
                 },
                 {
                     "yaw": -1.2075788707259143,
                     "pitch": -0.009895661548117829,
                     "title": "Sexta",
-                    "text": "Tady se učí Sexta<hr><b>Třídní učitel</b>: Václav brdek"
+                    "text": "Tady se učí Sexta<hr><b>Třídní učitel</b>: Václav&nbsp;brdek"
                 },
                 {
                     "yaw": -1.3880610372271693,
                     "pitch": -0.00846638472883221,
                     "title": "Učebna výtvarné výchovy a kabinet",
-                    "text": "Tady nejen malujeme, ale i tvoříme různé modely a mnoho dalších zajímavých věci.<hr><b>Kabinet</b>: Kateřina Dojčláková, Barbora Hudečková, Martin Kulhánek, Petr Nečina, Veronika Poldauf, Jitka Procházková, Martin Voráč" // Dojčláková? Nevím
+                    "text": "Tady nejen malujeme, ale i tvoříme různé modely a mnoho dalších zajímavých věci.<hr><b>Kabinet</b>: Kateřina&nbsp;Dojčláková, Barbora&nbsp;Hudečková, Martin&nbsp;Kulhánek, Petr&nbsp;Nečina, Veronika&nbsp;Poldauf, Jitka&nbsp;Procházková, Martin&nbsp;Voráč"
                 }
             ]
         },
@@ -525,30 +525,30 @@ var APP_DATA = {
                     "yaw": -1.3753218909706675,
                     "pitch": -0.016106449726779104,
                     "title": "Prima",
-                    "text": "Tady se učí Prima<hr><b>Třídní učitel</b>: Matúš Kepič"
+                    "text": "Tady se učí Prima<hr><b>Třídní učitel</b>: Matúš&nbsp;Kepič"
                 },
                 {
                     "yaw": 2.220243576047407,
                     "pitch": -0.006882588118610755,
                     "title": "Kabinet psycholožek",
-                    "text": "Tady se řeší problémy žáků<hr><b>Lidé</b>: Jitka Hofmannová, Pavla Vošáhlíková"
+                    "text": "Tady se řeší problémy žáků<hr><b>Lidé</b>: Jitka&nbsp;Hofmannová, Pavla&nbsp;Vošáhlíková"
                 },
                 {
                     "yaw": 1.274070038162094,
                     "pitch": 0.011374938646721233,
                     "title": "BioChem a kabinet",
-                    "text": "Tady se učí biologie, chemie, fyzika a občas i přírodopis.<hr><b>Kabinet</b>: Věra Juráčková, Petr Kolář, Jaroslav Šebestík"
+                    "text": "Tady se učí biologie, chemie, fyzika a občas i přírodopis.<hr><b>Kabinet</b>: Věra&nbsp;Juráčková, Petr&nbsp;Kolář, Jaroslav&nbsp;Šebestík"
                 },
                 {
                     "yaw": 1.0799403192871289,
                     "pitch": 0.010632549489326237,
                     "title": "Kabinet",
-                    "text": "<b>Lidé</b>: Stanislav Čaja, Kateřina Freudová, Robert Haken, Ján Hanko, Matúš Kepič, Naděžda Končelíková, Christo Kračunov, Josef Uchytil, Martin Zimen, Irena Žaloudková"
+                    "text": "<b>Lidé</b>: Stanislav&nbsp;Čaja, Kateřina&nbsp;Freudová, Robert&nbsp;Haken, Ján&nbsp;Hanko, Matúš&nbsp;Kepič, Naděžda&nbsp;Končelíková, Christo&nbsp;Kračunov, Josef&nbsp;Uchytil, Martin&nbsp;Zimen, Irena&nbsp;Žaloudková"
                 }
             ]
         }
     ],
-    "name": "Project Title",
+    "name": "Mapa školy",
     "settings": {
         "mouseViewMode": "drag",
         "autorotateEnabled": false,
