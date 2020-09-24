@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Manrope:300,400,500,700");
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -24,7 +24,7 @@ body {
     padding: 0;
     margin: 0;
     overflow: hidden;
-    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Manrope", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     background-color: #000;
     color: white;
