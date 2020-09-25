@@ -365,7 +365,7 @@ var APP_DATA = {
                     "yaw": -0.4985710766053959,
                     "pitch": -0.22708181177412534,
                     "title": "Ředitelna a sekretariát",
-                    "text": "Tady se řídí škola<hr><b>Lidé</b>: Magda&nbsp;Kindlová, Anna&nbsp;Rakovská, Renáta&nbsp;Sladká"
+                    "text": "Tady jsou paní ředitelka a sekretářka.<hr><b>Lidé</b>: Magda&nbsp;Kindlová, Anna&nbsp;Rakovská, Renáta&nbsp;Sladká"
                 },
                 {
                     "yaw": -1.337127569277344,
@@ -377,7 +377,7 @@ var APP_DATA = {
                     "yaw": 1.1683696579724643,
                     "pitch": -0.025779118418645552,
                     "title": "Zástupci ředitelky",
-                    "text": "Tady jsou náhradní řidiči školy<hr><b>Lidé</b>: Marcela&nbsp;Fatrová, Václav&nbsp;Brdek"
+                    "text": "Tady jsou zástupci ředitelky.<hr><b>Lidé</b>: Marcela&nbsp;Fatrová, Václav&nbsp;Brdek"
                 },
                 {
                     "yaw": 1.388883819900002,
