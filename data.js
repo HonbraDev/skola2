@@ -318,7 +318,7 @@ var APP_DATA = {
                     "yaw": -1.0845279840060513,
                     "pitch": 0.028940373918306506,
                     "title": "Oktáva",
-                    "text": "Tady se učí Oktáva<hr><b>Třídní učitel</b>: Věra&nbsp;Juráčková"
+                    "text": "Tady se učí Oktáva<hr><b>Třídní učitel</b>: Věra&nbsp;Jurčáková"
                 },
                 {
                     "yaw": -1.2799079211374274,
@@ -478,13 +478,13 @@ var APP_DATA = {
                     "yaw": -1.2075788707259143,
                     "pitch": -0.009895661548117829,
                     "title": "Sexta",
-                    "text": "Tady se učí Sexta<hr><b>Třídní učitel</b>: Václav&nbsp;brdek"
+                    "text": "Tady se učí Sexta<hr><b>Třídní učitel</b>: Václav&nbsp;Brdek"
                 },
                 {
                     "yaw": -1.3880610372271693,
                     "pitch": -0.00846638472883221,
                     "title": "Učebna výtvarné výchovy a kabinet",
-                    "text": "Tady nejen malujeme, ale i tvoříme různé modely a mnoho dalších zajímavých věci.<hr><b>Kabinet</b>: Kateřina&nbsp;Dojčláková, Barbora&nbsp;Hudečková, Martin&nbsp;Kulhánek, Petr&nbsp;Nečina, Veronika&nbsp;Poldauf, Jitka&nbsp;Procházková, Martin&nbsp;Voráč"
+                    "text": "Tady nejen malujeme, ale i tvoříme různé modely a mnoho dalších zajímavých věci.<hr><b>Kabinet</b>: Kateřina&nbsp;Dojčiaková, Barbora&nbsp;Hudečková, Martin&nbsp;Kulhánek, Petr&nbsp;Nečina, Veronika&nbsp;Poldauf, Jitka&nbsp;Procházková, Martin&nbsp;Voráč"
                 }
             ]
         },
@@ -531,13 +531,13 @@ var APP_DATA = {
                     "yaw": 2.220243576047407,
                     "pitch": -0.006882588118610755,
                     "title": "Kabinet psycholožek",
-                    "text": "Tady se řeší problémy žáků<hr><b>Lidé</b>: Jitka&nbsp;Hofmannová, Pavla&nbsp;Vošáhlíková"
+                    "text": "Tady se řeší problémy žáků<hr><b>Lidé</b>: Jitka&nbsp;Hofmannová, Pavla&nbsp;Vošahlíková"
                 },
                 {
                     "yaw": 1.274070038162094,
                     "pitch": 0.011374938646721233,
                     "title": "BioChem a kabinet",
-                    "text": "Tady se učí biologie, chemie, fyzika a občas i přírodopis.<hr><b>Kabinet</b>: Věra&nbsp;Juráčková, Petr&nbsp;Kolář, Jaroslav&nbsp;Šebestík"
+                    "text": "Tady se učí biologie, chemie, fyzika a občas i přírodopis.<hr><b>Kabinet</b>: Věra&nbsp;Jurčáková, Petr&nbsp;Kolář, Jaroslav&nbsp;Šebestík"
                 },
                 {
                     "yaw": 1.0799403192871289,
