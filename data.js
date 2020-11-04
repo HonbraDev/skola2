@@ -324,7 +324,7 @@ var APP_DATA = {
                     "yaw": -1.2799079211374274,
                     "pitch": 0.027899015170767427,
                     "title": "Tercie, kabinet a sborovna",
-                    "text": "Tady se učí Tercie<hr><b>Třídní učitel</b>: Helena&nbsp;Polláková<hr>Kabinet ČJ a LIT: Marie&nbsp;Veverová, Lenka&nbsp;Ulmanová<hr>Sborovna cizích jazyků + jiní: Jelena&nbsp;Bedretdinová, Isabel&nbsp;Landeros, Kateřina&nbsp;Miloschewská, Jana&nbsp;Sedláčková, Adéla&nbsp;Smažíková, Ivo&nbsp;Šír, Jiří&nbsp;Šulc"
+                    "text": "Tady se učí Tercie<hr><b>Třídní učitel</b>: Helena&nbsp;Polláková<hr>Kabinet ČJ a LIT: Marie&nbsp;Veverová, Lenka&nbsp;Ulmanová<hr>Sborovna cizích jazyků + jiní: Jelena&nbsp;Bedretdinová, Isabel&nbsp;Landeros, Kateřina&nbsp;Miloschewská, Jana&nbsp;Sedláčková, Adéla&nbsp;Smažíková, Jiří&nbsp;Šulc"
                 }
             ]
         },
@@ -383,7 +383,7 @@ var APP_DATA = {
                     "yaw": 1.388883819900002,
                     "pitch": -0.0357822860252881,
                     "title": "Sekunda",
-                    "text": "Tady se učí Sekunda<hr><b>Třídní učitel</b>: Hana&nbsp;Šromová"
+                    "text": "Tady se učí Sekunda<hr><b>Třídní učitel</b>: Pert&nbsp;Kubačák"
                 }
             ]
         },
