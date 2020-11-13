@@ -105,7 +105,7 @@ var APP_DATA = {
           pitch: -0.183,
           title: "Kabinet tělocviku",
           text:
-            "V počítačové laboratoři se učí IVT (informační a výpočetní technologe). Naši žáci mají předplatné Office 365.",
+            "<b>Lidé:</b> Aleš&nbsp;Presl, Petr&nbsp;Kubačák, James&nbsp;De&nbsp;Silva, Helena&nbsp;Polláková, Martin&nbsp;Kalivoda, &nbsp;Sheddon",
         },
       ],
     },

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Manrope:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Gilroy:300,400,500,700");
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -24,11 +24,11 @@ body {
     padding: 0;
     margin: 0;
     overflow: hidden;
-    font-family: "Manrope", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Gilroy", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     background-color: #000;
     color: white;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 a,
